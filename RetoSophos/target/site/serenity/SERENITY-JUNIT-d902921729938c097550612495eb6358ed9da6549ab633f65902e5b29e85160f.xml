@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="yo como usuario quiero comprar un producto en la pagina plazavea.com" skipped="0" tests="1" time="45.22" timestamp="2020-01-07 02:50:04"><testcase name="validar que el producto quedo en el carrito de compras"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+reto.sophos.tasks.SeleccionarProducto.performAs(SeleccionarProducto.java:18)&#13;
+reto.sophos.stepdefinitions.Stepdefinitions.deseaBuscarUnTelevisorLoSeleccionaYEnviaAlCarritoDeCompras(Stepdefinitions.java:46)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
