@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34c480e4-d140-4095-965b-a64a6b093052" name="Default Changelist" comment="" />
+    <list default="true" id="34c480e4-d140-4095-965b-a64a6b093052" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,23 +37,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="RetoSophos" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="RetoSophos" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="RetoSophos" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="serenity bdd" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -68,7 +55,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SophosReto" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1VrPIJLN8zsUFVWUAticrPr4yPS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,8 +66,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
@@ -91,7 +81,7 @@
       <recent name="C:\Users\Julian\eclipse-workspace\RetoSophos" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.RetoCompra">
+  <component name="RunManager" selected="Gradle.RetoSophos [aggregate]">
     <configuration name="RetoCompra" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -170,6 +160,7 @@
       <workItem from="1578011254200" duration="106000" />
       <workItem from="1578011427445" duration="10109000" />
       <workItem from="1578419816061" duration="5863000" />
+      <workItem from="1578427293716" duration="65000" />
     </task>
     <servers />
   </component>
@@ -201,22 +192,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="603" y="329" width="354" height="165" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1578423347910" />
-    <state width="1342" height="279" key="GridCell.Tab.0.bottom" timestamp="1578426706893">
+    <state width="1342" height="279" key="GridCell.Tab.0.bottom" timestamp="1578427423707">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="279" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578426706893" />
-    <state width="1342" height="279" key="GridCell.Tab.0.center" timestamp="1578426706893">
+    <state width="1342" height="279" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578427423707" />
+    <state width="1342" height="279" key="GridCell.Tab.0.center" timestamp="1578427423707">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="279" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578426706893" />
-    <state width="1342" height="279" key="GridCell.Tab.0.left" timestamp="1578426706893">
+    <state width="1342" height="279" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578427423707" />
+    <state width="1342" height="279" key="GridCell.Tab.0.left" timestamp="1578427423706">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="279" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578426706893" />
-    <state width="1342" height="279" key="GridCell.Tab.0.right" timestamp="1578426706893">
+    <state width="1342" height="279" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578427423706" />
+    <state width="1342" height="279" key="GridCell.Tab.0.right" timestamp="1578427423707">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="279" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578426706893" />
+    <state width="1342" height="279" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578427423707" />
     <state width="1537" height="479" key="GridCell.Tab.1.bottom" timestamp="1578410810938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -233,6 +224,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1537" height="479" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578410810938" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1578427357693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578427357693" />
     <state x="470" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1578419816438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
