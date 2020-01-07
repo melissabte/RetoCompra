@@ -5,8 +5,7 @@ Un proyecto donde se ejemplifica el uso del patrón screenplay en una aplicación 
 
 
 Pre-requisitos
--El ejecutable de Chrome driver en la última versión y crear la variable de entorno. -Java v.1.8.0_231 y JDK (variables de entorno configuradas) -Intellij IDEA 2019.3.1 -Instalar Gradle v6.0.1 o superior (variables de entorno configuradas) -Instalar en Eclipse IDE el plugin de cucumber
-
+-El ejecutable de Chrome driver en la última versión y crear la variable de entorno. -Java v.1.8.0_231 y JDK (variables de entorno configuradas) -Instalar Intellij IDEA 2019.3.1 -Instalar Gradle v6.0.1 o superior (variables de entorno configuradas).
 Detalles generales de la implementación
 Los tests usan tareas (tasks), interacciones (interactions), preguntas (questions), elementos de paginas (user_interface),excepciones(exceptions).
 
